@@ -1,7 +1,7 @@
 INSERT INTO users(username, email, password_hash, phone_number)
 VALUES  (1, 'Thato', 'Selepe', 'thatoselepe@gmail.com', 'pass122', '0612345677'),
         (2, 'Thabanga', 'Mokhantso', 'thabang11@gmail.com', 'pass123', '0712345678'),
-        (3, 'Wiseman', 'Zondo', 'wiseman@gmail.com', 'pass124', '0812345679'),
+        (3, 'Wiseman', 'Zondo', 'wiseman@gmail.com', 'pass124', '0812345679');
         
 
 INSERT INTO properties(host_id, name, description, address, location, price_per_night)
